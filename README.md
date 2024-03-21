@@ -1,3 +1,8 @@
+Created a simple trip planner website 
+
+![trip-planner](https://github.com/deep150499/trip-planner-react/assets/119634445/6b370923-50a0-473c-b3ff-20d026e248a5)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
